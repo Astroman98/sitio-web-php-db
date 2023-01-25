@@ -29,7 +29,7 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <div class="site-heading">
-                            <h1>Pedi lo que quieras</h1>
+                            <h1>¡Pedi lo que quieras!</h1>
                             <span class="subheading">¿Con hambre? Podemos solucionarlo</span>
                         </div>
                     </div>
